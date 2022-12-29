@@ -1,4 +1,8 @@
 # yape-code-challenge
+Diagrama 
+
+[![Screenshot-2022-12-29-at-02-19-11.png](https://i.postimg.cc/3Nzk9PRD/Screenshot-2022-12-29-at-02-19-11.png)](https://postimg.cc/4Hb4x2pJ)
+
 Instalar dependencias
 
 - cd api-transaction && npm install
