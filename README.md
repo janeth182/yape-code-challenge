@@ -29,6 +29,7 @@ Puede iniciar la demostración de la siguiente manera:
               "tranferTypeId": 1,
               "value": 850
           }
+
 Debugging
 
 Kafdrop está incluido en el archivo docker-compose, puede acceder a él yendo a: http://localhost:19000
