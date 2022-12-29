@@ -1,0 +1,9 @@
+{
+    "groupId": "transation-response",
+    "topicTransactionRetrieve": "transaction-retrieve",
+    "broker": "localhost:9092",
+    "clientId": "consumer-transaction",
+    "connectionTimeout": 3000,
+    "authenticationTimeout": 1000,
+    "reauthenticationThreshold": 10000
+}

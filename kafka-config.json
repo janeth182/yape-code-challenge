@@ -1,0 +1,10 @@
+{
+    "groupId": "my-kafka-consumer",
+    "kafkaTopic": "transaction",
+    "topicTransactionRetrieve": "transaction-retrieve",
+    "broker": "localhost:9092",
+    "clientId": "kafka-example-client",
+    "connectionTimeout": 3000,
+    "authenticationTimeout": 1000,
+    "reauthenticationThreshold": 10000
+}
